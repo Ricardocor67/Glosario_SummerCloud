@@ -9,7 +9,7 @@ En esta seccion encontrará las deficiones de los conceptos vistos durante el cu
 
 # Índice
 - [Participantes](#participantes)
-- [Conceptos básicos](./Datos/conceptos.md/#conceptos-básicos)
+- [Conceptos básicos](./conceptos.md/#conceptos-básicos)
   - [La nube](./Datos/conceptos.md/#la-nube)
     - [Escalabilidad](./Datos/conceptos.md/#escalabilidad)
     - [Elasticidad](./Datos/conceptos.md/#elasticidad)
