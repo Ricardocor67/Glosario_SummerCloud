@@ -1,4 +1,4 @@
-#### [Menu](../README.md)
+#### [Menu](./README.md)
 
 # Conceptos básicos
 
@@ -41,7 +41,7 @@ Los datos se pueden implementar en centros regionales de todo el mundo.
 |--------------|--------------|--------------|
 | Plataforma como servicio (Plataform as a Service). Entorno para construir, probar e implementar aplicaciones de software. Ayuda a crear aplicaciones rapidamente sin centrarse en la infraestructura subyacente. Nosotros administramos la aplicación.<img align="center" alt="LinkdeIn Ramiro" width="220px" src="../Recursos/vacia.png" /> | Software como servicio (Software as a Service). Software alojado y administrado para usuarios finales. Se conectan y usan aplicaciones basadas en la nube a través de internet. Como Microsoft 365. El proveedor de los servicios es el encargado de la administración.<img align="center" alt="Casa vacia" width="220px" src="../Recursos/casaamueblada.jpg" /> | Infraestructura como servicio (Infrastructure as a service). Categoría más básica de computación en la nube. Servicio de pago por uso donde se alquilan servidores, maquinas virtuales, almacenamiento, redes y sistemas operativos de operadores en la nube. La responsabilidad es mayor para nosotros.<img align="center" alt="Obra negra" width="220px" src="../Recursos/dos-ingeniero-sitio-construccion-hombre-negocios_51191-32.png" /> |
 
-#### [Menu](../README.md)
+#### [Menu](./README.md)
 
 ## Infraestructura de Azure
 
@@ -76,7 +76,7 @@ Los servicios de redundancia regional replican aplicaciones y datos en las zonas
 
 <img align="center"  alt="logo"  width="350px" src=../Recursos/az-graphic-two.png  />
 
-#### [Menu](../README.md)
+#### [Menu](./README.md)
 
 ##  Servicios de Azure
 <img align="center"  alt="logo"  width="350px" src=../Recursos/LogoAzure.png  />
@@ -126,7 +126,7 @@ Tiene como objetivo ayudar a los desarrolladores a crear aplicaciones inteligent
 Es un conjunto de herramientas y servicios que te ayuda a administrar tus proyectos de desarrollo de software en todas sus fases.
 Es un conjunto de herramientas y servicios que te ayuda a administrar tus proyectos de desarrollo de software en todas sus fases.
 
-#### [Menu](../README.md)
+#### [Menu](./README.md)
 
 # Comandos útiles
 
@@ -158,4 +158,4 @@ Es un conjunto de herramientas y servicios que te ayuda a administrar tus proyec
     git push origin branch-name
 
 
-[Menu](../README.md)
+[Menu](./README.md)
